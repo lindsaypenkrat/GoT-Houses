@@ -13,6 +13,8 @@
 		C3A32D4D262A022F00E64042 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3A32D4B262A022F00E64042 /* Main.storyboard */; };
 		C3A32D4F262A023000E64042 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A32D4E262A023000E64042 /* Assets.xcassets */; };
 		C3A32D52262A023000E64042 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3A32D50262A023000E64042 /* LaunchScreen.storyboard */; };
+		C3A32D5C262A127300E64042 /* HouseInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A32D5B262A127300E64042 /* HouseInfo.swift */; };
+		C3A32D5F262A13A800E64042 /* Houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A32D5E262A13A800E64042 /* Houses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C3A32D4E262A023000E64042 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3A32D51262A023000E64042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3A32D53262A023000E64042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3A32D5B262A127300E64042 /* HouseInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseInfo.swift; sourceTree = "<group>"; };
+		C3A32D5E262A13A800E64042 /* Houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Houses.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				C3A32D45262A022F00E64042 /* AppDelegate.swift */,
 				C3A32D47262A022F00E64042 /* SceneDelegate.swift */,
 				C3A32D49262A022F00E64042 /* ViewController.swift */,
+				C3A32D5B262A127300E64042 /* HouseInfo.swift */,
+				C3A32D5E262A13A800E64042 /* Houses.swift */,
 				C3A32D4B262A022F00E64042 /* Main.storyboard */,
 				C3A32D4E262A023000E64042 /* Assets.xcassets */,
 				C3A32D50262A023000E64042 /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			files = (
 				C3A32D4A262A022F00E64042 /* ViewController.swift in Sources */,
 				C3A32D46262A022F00E64042 /* AppDelegate.swift in Sources */,
+				C3A32D5F262A13A800E64042 /* Houses.swift in Sources */,
+				C3A32D5C262A127300E64042 /* HouseInfo.swift in Sources */,
 				C3A32D48262A022F00E64042 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
